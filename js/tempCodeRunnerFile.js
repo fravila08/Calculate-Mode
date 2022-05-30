@@ -1,0 +1,1 @@
+char.calculateMode([1,2,3]) 
